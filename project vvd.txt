@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    
+    <h2>flowers</h2>
+    <p>Flowers are Beautiful :</p>
+    
+    <img style="width:500px" src="https://cdn.glitch.global/fca9ef22-cdee-48aa-85f8-8ae0f032da7a/flowers1.jpg?v=1665588360794">
+        
+     <p>* Every flower blooms in its own time:</p>    
+    <p>* spring flowers are nature's most fragrant charms :</p>
+  
+  </body>
+</html>
